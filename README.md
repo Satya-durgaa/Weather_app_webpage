@@ -1,0 +1,1 @@
+A simple weather application that provides real-time weather data for any city. This app fetches weather details using the OpenWeather API and displays temperature, weather conditions, humidity, and wind speed.
